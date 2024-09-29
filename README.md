@@ -1,6 +1,6 @@
 # Redfin Analytics: Python ETL Pipeline with Apache Airflow
 
-![Redfin Analytics ETL Pipeline](./Redfin%20Analytics/Redfin%20Pipeline%20Structure.png)
+![Redfin Analytics ETL Pipeline](./Redfin%20Pipeline%20Structure.png)
 
 ## Project Overview
 This project demonstrates a fully automated ETL (Extract, Transform, Load) pipeline developed for **Redfin Analytics**, utilizing **Python**, **Apache Airflow**, **AWS**, and **Snowflake**. The pipeline is designed to extract real estate data from Redfin, process and transform it, and then load it into **Snowflake** for real-time analysis and visualization.
